@@ -81,7 +81,9 @@ GIS-Based Flood Risk Analysis Project
 
 *This project demonstrates the application of GIS and spatial analysis techniques to an environmental risk assessment problem in Lagos State, Nigeria.*## Final Map
 
+## Final Map
+
 The map below shows the percentage of each Lagos State LGA located within 500 metres of waterways.
 
-![Lagos LGA Waterway 500m Percentage Map](../maps/Lagos_LGA_Waterway_500m_Percentage_Map.png)
+![Lagos LGA Waterway 500m Percentage Map](maps/Lagos_LGA_Waterway_500m_Percentage_Map.png)
 
