@@ -77,10 +77,5 @@ Lagos-flood-risk-analysis/
 │   └── Lagos_Flood_Risk_Analysis_Clean.qgz
 │
 └── README.md
-
-## Final Map
-
-The map below shows the percentage of each Lagos State LGA located within 500 metres of waterways.
-
-![Lagos LGA Waterway 500m Percentage Map](maps/Lagos_LGA_Waterway_500m_Percentage_Map.png?raw=true)
+s
 
